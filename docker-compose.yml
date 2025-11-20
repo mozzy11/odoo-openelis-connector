@@ -122,8 +122,9 @@ services:
       - hie
 
   proxy:
-    image: nginx:1.15-alpine
+    image: itechuw/openelis-global-2-proxy:develop
     container_name: openelisglobal-proxy
+    platform: linux/amd64
     ports:
       - 80:80
       - 443:443
