@@ -65,7 +65,7 @@ This script will:
 Once deployed, the services will be available at:
 
 - **Odoo**: http://localhost:8069 | admin : admin
-- **OpenELIS**: https://localhost:8443 | admin : adminADMIN!
+- **OpenELIS**: https://localhost | admin : adminADMIN!
 
 ## Configuration
 
